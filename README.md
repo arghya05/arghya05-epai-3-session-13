@@ -3,7 +3,7 @@
 
 ## Assignment
 
-This  [code (Links to an external site.)](https://colab.research.google.com/github/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb#scrollTo=FqXbPB80r8p4)is from the same repo that we were following.
+
 
 Your assignment is to remove all the legacy stuff from this and submit:
 
@@ -139,15 +139,3 @@ predicted trg = ['In', 'the', 'middle', 'and', 'a', 'small', 'race', ',', 'enjoy
 
 ![test set attn](https://github.com/satyajitghana/TSAI-DeepNLP-END2.0/blob/main/13_AIAYN_Recap/attns/attn_3.png?raw=true)
 
-
----
-
-<p align="center">
-<iframe src="https://giphy.com/embed/tBxyh2hbwMiqc" width="344" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-cat-gato-gatos-tBxyh2hbwMiqc"></a></p>
-</p>
-
----
-
-<p align="center">
-satyajit 🐱<br>:wq
-</p>
