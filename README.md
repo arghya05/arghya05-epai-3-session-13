@@ -13,8 +13,6 @@ Your assignment is to remove all the legacy stuff from this and submit:
 
 ## Solution
 
-|| NBViewer | Google Colab |
-|--|--|--|
 
 **Logs**
 
